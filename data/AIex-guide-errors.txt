@@ -1,0 +1,24 @@
+"Bandit's Grass Shirt" should be "Bandit's Grass Skirt"
+"Bandit's Mail" (|"Empycchu") should be "Bandit Mail"
+"GOLDEN BRACER" should be "GOLD BRACER"
+"ORICHALCCUM" ("Black Citadel") should be "ORICHALCUM"
+equippability of Shamshir of light should be "Angelo" and neither "Hero" nor "Jessica"
+equippability of Iron shield should be "Angelo" instead of blank for all.
+"BATTLE AXE" should be "BATTLE-AXE"
+Rose Wort should be Rose-wort
+Rose root should be Rose-root
+Mini-Medal should be Mini Medal
+Iron Shield is listed as Defense "00" should be 15; reduces fire&ice damage by 5 points
+
+Fixed via additional input file "IngredientList - more":
+Posh Waistcoat is not listed in the findable items section -- should be Find: Northwest Isle
+
+Not yet fixed:
+Hell sabre not yet listed under Weapon section with "Find:" (item should be listed and say "Find: Troll's Maze")
+Does not yet have alchemy recipe for Shimmering Dress (has clue "Shimmering Dress = Spangled Dress + A Glittering Jewel + A 
+Gleaming Bracer") which is in other guides
+
+
+
+Possible problems:
+"Uber double-edge" and "double-edged sword" may not be hyphenated or spelled with or without "ed" in the proper way.

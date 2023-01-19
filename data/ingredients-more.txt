@@ -1,0 +1,102 @@
+Spears
+Hero Spear (Atk^100; E:H; Arena:Rank A)
+
+Swords
+miracle sword (68 mini medals)
+
+Crossover Swords
+falcon blade (Baccarat Casino 10,000 tokens)
+dream blade ()
+
+Axes
+Battle-axe (E:Y)
+Bandit axe (Dodgy Dave:trade Ring of Immunity)
+
+Scythes
+Birdiche of binding (Arena:Rank B)
+
+Light Swords
+shamshir of light ()
+
+Whips
+gringham whip (Atk^127; E:J; Baccarat Casino 200,000 tokens)
+flail of destruction (110 mini medals; see Red after defeating Marcello)
+
+Staves
+magical mace (Atk^79; E:J,A; Empycchu 9000g; occasionally steals MP)
+staff of divine wrath (45 mini medals)
+rune staff (Pickham Casino 3,000 tokens)
+
+Versatile Armour
+liquid metal armour (D^101; E:H,Y,J,A; Baccarat Casino 50,000 tokens; reduces curse damage by 2/3)
+
+Heavy Armour
+bandit's grass skirt ()
+turtle shell ()
+
+Crossover Heroic Light Armour
+sacred armour (75 mini medals)
+
+Vanity Armour
+Bunny suit (Arena:Rank F)
+dangerous bustier (99 mini medals)
+spangled dress (Baccarat Casino 3,000 tokens)
+
+Crossover Vanity Light Armour
+dragon robe (D^108; E:J,A; Reduces damage from fire and ice-based spells by 40 points; Arena:Rank S)
+cloak of evasion ()
+
+Light Armour
+Posh Waistcoat (36 mini medals; Find:Northwest Isle)
+
+Versatile Headgear
+metal king helm (90 mini medals)
+
+Crossover Vanity Light Headgear
+happy hat (Dodgy Dave:trade Crimson Robe)
+
+Crossover Heroic Light Headgear
+platinum headgear (Pickham Casino 5,000 tokens)
+
+Shields
+silver platter (Pickham Casino 500 tokens)
+iron shield (D^15; E:H,Y; reduces fire&ice by 5 points)
+big boss shield (Dodgy Dave:trade Crimson Robe)
+
+Accessories
+gold bracer (D^4)
+agility ring (Pickham Casino 1,000 tokens)
+prayer ring (Baccarat Casino 1,000 tokens)
+slime earrings ()
+mighty armlet (Arena:Rank D)
+ring of clarity (Arena:Rank E)
+strength ring (Arena:Rank G)
+meteorite bracer (60 mini medals)
+fishnet stockings (28 mini medals)
+titan belt (Pickham Casino 1,500 tokens)
+
+Ingredients
+Nook Grass (in Cave behind Marta's Cottage after defeat of Marcello)
+Rennet Powder ()
+Fresh Milk ()
+Cowpat ()
+Dragon Dung ()
+Gold Nugget (52 mini medals)
+Orichalcum (83 mini medals)
+iron nail ()
+orichalcum ()
+nook grass ()
+saint's ashes (Arena:Rank C; Baccarat Casino 5,000 tokens)
+wing of bat ()
+
+Consumables
+Medicinal Herb ()
+Chimaera Wing ()
+Moonwort Bulb ()
+Rockbomb Shard ()
+Magic Water (Pickham Casino 100 tokens)
+
+Special Items
+Baumren's Bell ()
+mini medal ()
+hero statue (Arena:Rank S)

@@ -9,4 +9,13 @@ My guide lists every ingredient (simple item, not advanced item) alphabetically,
 You don't need to compile this old program that requires my older dependency. You can just download a release PDF:
 - [Releases](https://github.com/Poikilos/IngredientToRecipe/releases).
 
-This is a guide I made using some programming: I reversed AIex's guide and generated an HTML file. The program detected the recipes and ingredients, and I even made fixes to the guide. AIex, I hope you will approve and explain how to credit you or what things shouldn't be included in the repository or release. I hope you and others enjoy this guide, and I hope it helps you enjoy the game more.
+This is a guide I made using some programming: I reversed three different guides and generated an HTML file. AIex' guide is not included because the author has not allowed redistribution of it. The program detected the recipes and ingredients, and I even made fixes to the guide. I hope you and others enjoy this guide, and I hope it helps you enjoy the game more.
+
+Data was provided by GameWinners, RedScarlet, and AIex, with corrections and additions by Poikilos. Therefore this release is superior to the output of running IngredientToRecipe using those guides unedited as sources, which is possible in some cases. Releases are considered in good faith not to infringe upon any of the aforementioned previously copyrighted expression of the information, but rather to provide data about the game itself in a new expression (game rules cannot by copyrighted, only specific expressions of rules).
+
+## Tasks
+- [x] Load AIex alchemy recipes
+- [x] Mark items as won by Arena Rank (by using  "ingredients-more.txt"; not in AIex's guide)
+- [x] Mark items as won by Mini Medals (by using  "ingredients-more.txt" -- does not read AIex guide NUMBER OF MEDALS NEEDED section)
+- [x] Mark items as obtained from Dodgy Dave
+- [ ] Find a way to mark undesirable items easily (i.e. "danger" on EITHER line of description -- currently on the first line is checked)
